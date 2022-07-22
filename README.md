@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🧠 Smart Contracts developer with Solidity.
 
-📝 My projects include NFTs, Smart Contracts, ERC20 tokens and more.
+📝 My projects include NFTs, Smart Contracts, ERC-20 tokens and more.
 
 <!-- 💰 I hope to land a blockchain job by August this year.-->
 
