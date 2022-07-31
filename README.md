@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## Check out my portfolio.
-<a href="https://fps8k.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0xfps-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
+<a href="https://0xfps.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0xfps-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
 <br/>
 
 ## Thank you for visiting my profile.
