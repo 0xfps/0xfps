@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 📝 My projects include NFTs, Smart Contracts, ERC-20 tokens and more.
 
-<!-- 💰 I hope to land a blockchain job by August this year.-->
-
 👼🏾 Always ready to learn.
 <br/>
 
