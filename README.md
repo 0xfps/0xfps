@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ## My GitHub statistics. <!-- <img src="https://gpvc.arturio.dev/0xfps"/> -->
 <!-- ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfps) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=0xfps&show_icons=true&theme=dark" width="400"> -->
-
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xfps&theme=material-palenight)](https://git.io/streak-stats)
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfps&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
