@@ -32,40 +32,45 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp; -->
 </div>
 
-## My GitHub statistics. <!-- <img src="https://gpvc.arturio.dev/0xfps"/> -->
+<!--
+## My GitHub statistics. --> <!-- <img src="https://gpvc.arturio.dev/0xfps"/> -->
 <!-- ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfps) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=0xfps&show_icons=true&theme=dark" width="400"> -->
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xfps&theme=material-palenight)](https://git.io/streak-stats)
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfps&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xfps&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
+<br/><br/>
 🦜 <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
 
+<!--
 ## Send a DM.
-<a href="https://twitter.com/0xfps" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/0xfps" target="_blank" rel="noopener noreferrer"> -->
 <!--   <img src="https://img.shields.io/badge/Twitter-@0xfps-blue?style=for-the-badge&logo=appveyor" alt="Twitter Badge"/> -->
-  <img alt="0xfps - Twitter" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
+  <!-- <img alt="0xfps - Twitter" width="22px" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
 
 <a href="https://wa.me/2348156213793" target="_blank" rel="noopener noreferrer">
   <img alt="0xfps - WhatsApp" width="25px" height="25px" src="https://img.icons8.com/color/48/undefined/whatsapp--v2.png"/>
-</a>
+</a> -->
 
 <!-- <a href="https://facebook.com/0xfps" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/Facebook-0xfps-informational?style=for-the-badge&logo=appveyor" alt="Facebook Badge"/>
@@ -75,7 +80,6 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Reddit-@fps16k-orange?style=for-the-badge&logo=appveyor" alt="Reddit Badge"/> -->
 <!-- </a> -->
 <!-- <a href="https://www.linkedin.com/in/0xfps/" target="_blank" rel="noopener noreferrer">LinkedIn</a> -->
-<br/>
 
 ## Check out my portfolio.
 <a href="https://0xfps.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0xfps-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
