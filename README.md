@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
 -->
 
 <br/><br/>
-🦜 <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
+🦜<br/><a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /><!--<img src="https://img.shields.io/badge/Gmail-@anthony-red?style=social&logo=appveyor" alt="Gmail Badge"/>--></a>
 
 <!--
 ## Send a DM.
