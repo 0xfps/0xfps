@@ -1,9 +1,9 @@
-Nnaemeka Anthony Umeh
-Blockchain Engineer
-+234-815-621-3793
-anthony.nnaemeka.umeh@gmail.com
+Nnaemeka Anthony Umeh <br/>
+Blockchain Engineer <br/>
++234-815-621-3793 <br/>
+anthony.nnaemeka.umeh@gmail.com <br/><br/>
 
-Hello Matter Labs,
+Hello Matter Labs, <br/>
 
 I hope my application finds you well.
 
@@ -17,8 +17,9 @@ I know that Matter Labs' plans include developing and testing safe and secure Sm
 
 Thank you for taking time to read this and I hope to speak with you again.
 
-Sincerely,
-Nnaemeka Anthony Umeh
-Phone: (+234) 904 566 2427
-Twitter: https://www.twitter.com/0xfps
-LinkedIn: https://www.linkedin.com/in/0xfps
+<br/><br/>
+Sincerely, <br/>
+Nnaemeka Anthony Umeh <br/>
+Phone: (+234) 904 566 2427 <br/>
+Twitter: https://www.twitter.com/0xfps <br/>
+LinkedIn: https://www.linkedin.com/in/0xfps <br/>
