@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👨🏾‍🦱 My name is Nnaemeka Umeh, male (he/him).
 
-🧠 Smart Contract developer with Solidity.
+🧠 Blockchain Engineer and Smart Contract developer with Solidity.
 
 📝 My projects include NFTs, Smart Contracts, ERC-20 tokens and more.
 
