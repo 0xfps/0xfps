@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## My GitHub statistics. <img src="https://gpvc.arturio.dev/0xfps"/>
+## My GitHub statistics. <!-- <img src="https://gpvc.arturio.dev/0xfps"/> -->
 ![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfps)
 <img src="https://github-readme-stats.vercel.app/api?username=0xfps&show_icons=true&theme=dark" width="400">
 
