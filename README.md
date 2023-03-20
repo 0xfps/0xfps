@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🧠 Blockchain engineer, smart contract developer and auditor.
 
-📝 I find vulnerabilities in smart contracts..
+📝 I find vulnerabilities in smart contracts and I also enjoy audit contests on [Code4rena](https://code4rena.com/).
 
 👼🏾 Staying up to date with the latest security vulnerabilities and best security practises.
 <br/>
