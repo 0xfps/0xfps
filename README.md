@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 👨🏾‍🦱 My name is Nnaemeka Umeh, male (he/him).
 
-🧠 Blockchain Engineer and Smart Contract developer with Solidity.
+🧠 Blockchain engineer, smart contract developer and auditor.
 
-📝 My projects include NFTs, Smart Contracts, ERC-20 tokens and more.
+📝 I find vulnerabilities in smart contracts..
 
-👼🏾 Always ready to learn.
+👼🏾 Staying up to date with the latest security vulnerabilities and best security practises.
 <br/>
 
 ## ⚔ Languages and tools.
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA"  alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
