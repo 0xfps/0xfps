@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Contact me.
-🦜<br/><a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+🦜 <a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Check out my portfolio.
 <a href="https://0xfps.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0xfps-black?style=for-the-badge&logo=appveyor" alt="Portfolio"/></a>
