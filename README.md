@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👨🏾‍🦱 My name is Nnaemeka Umeh, male (he/him).
 
-🧠 Blockchain engineer, smart contract developer and auditor.
+🧠 Smart contract engineer and auditor.
 
 📝 I find vulnerabilities in smart contracts and I also enjoy audit contests on [Code4rena](https://code4rena.com/).
 
@@ -40,18 +40,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
-## My GitHub statistics. <img src="https://gpvc.arturio.dev/0xfps"/>
-![fps's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xfps)
-<img src="https://github-readme-stats.vercel.app/api?username=0xfps&show_icons=true&theme=dark" width="400">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xfps&theme=material-palenight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfps&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Rizel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xfps&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/>
+## Contact me.
 🦜<br/><a href="mailto: anthony.nnaemeka.umeh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Check out my portfolio.
