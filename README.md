@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏾‍🦱 My name is Nnaemeka Umeh, male (he/him).
+👨🏾‍🦱 My name is Nnaemeka Umeh, male.
 
-🧠 Smart contract engineer and auditor.
+🧠 I am a smart contract engineer and I try to audit on the side.
 
 📝 I find vulnerabilities in smart contracts and I also enjoy audit contests on [Code4rena](https://code4rena.com/).
 
